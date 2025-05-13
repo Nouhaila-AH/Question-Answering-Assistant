@@ -28,3 +28,8 @@ A Retrieval-Augmented Generation (RAG) pipeline that answers questions using bot
 | `dotenv`                 | Environment variable management         |
 
 ---
+
+
+
+## 💻Author
+Built with ❤️ by Nouhaila Ait Ahmed
